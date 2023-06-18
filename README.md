@@ -17,26 +17,26 @@ To start a conversation with the chatbot, run the notebook file. You can ask the
 ## Example Conversations
 Here are some example questions you can ask the chatbot:
 
-What is a pine tree?
-How tall can a pine tree grow?
-What is the lifespan of a pine tree?
-Are pine trees evergreen?
-What are the uses of pine wood?
-What are pinecones?
-Where do pine trees grow best?
-How fast do pine trees grow?
-Do pine trees need a lot of sunlight?
-Can pine trees survive in the cold?
-Tell me about different species of pine trees.
-What is special about the bark of pine trees?
-Are pine trees good for the environment?
-Why are pine needles acidic?
-How does a pine tree reproduce?
-Why do pine trees have cones?
-How can I identify a pine tree?
-Can pine trees be used for medicinal purposes?
-What do pine trees symbolize?
-Do pine trees lose their needles?
+-What is a pine tree?
+-How tall can a pine tree grow?
+-What is the lifespan of a pine tree?
+-Are pine trees evergreen?
+-What are the uses of pine wood?
+-What are pinecones?
+-Where do pine trees grow best?
+-How fast do pine trees grow?
+-Do pine trees need a lot of sunlight?
+-Can pine trees survive in the cold?
+-Tell me about different species of pine trees.
+-What is special about the bark of pine trees?
+-Are pine trees good for the environment?
+-Why are pine needles acidic?
+-How does a pine tree reproduce?
+-Why do pine trees have cones?
+-How can I identify a pine tree?
+-Can pine trees be used for medicinal purposes?
+-What do pine trees symbolize?
+-Do pine trees lose their needles?
 
 ## Extending the Chatbot
 The knowledge of the chatbot is defined in a CSV in the `pine-data.csv` script, in the form of question-answer pairs. If you want the chatbot to know more about pine trees (or any other topic), you can extend this dictionary with more pairs.
