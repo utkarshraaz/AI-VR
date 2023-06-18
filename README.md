@@ -1,4 +1,5 @@
 # Pine Tree Chatbot- AI-VR challenges 1.
+[Colab notebook ]([url](https://colab.research.google.com/drive/1qHHpsrRqTQcwcwqIwp3raPqUpFOFJrwm?usp=sharing))
 
 ## Introduction
 This is a simple rule-based chatbot built in Python that provides information about pine trees. It leverages Natural Language Processing (NLP) using the sentence transformer to understand and respond to user queries.
